@@ -1,0 +1,5 @@
+K,reps,mode,tau2,pocock_c,obf_final_c,naive_reject_rate,naive_avg_stop_fraction,pocock_reject_rate,pocock_avg_stop_fraction,obrien_fleming_reject_rate,obrien_fleming_avg_stop_fraction,msprt_reject_rate,msprt_avg_stop_fraction,fixed_horizon_rate,outcome
+20,2000,aa,5.49684e-06,2.67207,2.12611,0.285,0.349912,0.0575,0.385217,0.06,0.784583,0.0185,0.474324,0.052,visit
+20,2000,bootstrap,5.49684e-06,2.67207,2.12611,1,0.056325,1,0.0663,1,0.17235,1,0.095625,1,visit
+20,2000,aa,2.17335e-08,2.67207,2.12611,0.2245,0.237194,0.0475,0.277895,0.038,0.803947,0.0005,0.95,0.0495,conversion
+20,2000,bootstrap,2.17335e-08,2.67207,2.12611,1,0.11845,1,0.17365,1,0.331475,0.9985,0.468027,1,conversion

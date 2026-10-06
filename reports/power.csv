@@ -1,0 +1,13 @@
+outcome,sample,n,control_rate,mde_abs,mde_rel,mde_abs_adjusted,mde_rel_adjusted,var_reduction,n_adjusted
+visit,this sample,699009,0.0386955,0.00181444,0.0468901,0.0015718,0.0406197,0.249568,
+visit,full dataset,13979591,0.0386955,0.000405729,0.0104852,0.000351473,0.00908304,0.249568,
+visit,n needed for 1% lift,15369013,0.0386955,,,,,,1.15334e+07
+visit,n needed for 2% lift,3842254,0.0386955,,,,,,2.88335e+06
+visit,n needed for 5% lift,614761,0.0386955,,,,,,461336
+visit,n needed for 10% lift,153691,0.0386955,,,,,,115334
+conversion,this sample,699009,0.0019957,0.000419851,0.210378,0.000415666,0.208281,0.019836,
+conversion,full dataset,13979591,0.0019957,9.38836e-05,0.0470429,9.29478e-05,0.046574,0.019836,
+conversion,n needed for 1% lift,309372908,0.0019957,,,,,,3.03236e+08
+conversion,n needed for 2% lift,77343227,0.0019957,,,,,,7.5809e+07
+conversion,n needed for 5% lift,12374917,0.0019957,,,,,,1.21294e+07
+conversion,n needed for 10% lift,3093730,0.0019957,,,,,,3.03236e+06
